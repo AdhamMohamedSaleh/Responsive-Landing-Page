@@ -6,3 +6,9 @@
 .btn {
   @apply bg-orange-600 cursor-pointer hover:bg-orange-600/60 text-white font-bold p-3 px-6 pt-2 rounded-full;
 }
+
+/* body {
+  background-image: url('../public/bg-tablet-pattern.svg');
+  background-repeat: no-repeat;
+  background-position: 70% -25%;
+} */
