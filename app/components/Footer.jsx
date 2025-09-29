@@ -47,7 +47,7 @@ function Footer() {
             <div className="flex flex-col justify-between">
                 <form>
                     <div className="flex space-x-3">
-                        <input type="text" className="flex-1 px-4 rounded-full bg-white focus:outline-none" placeholder="Updated in your inbox"/>
+                        <input type="email" className="flex-1 px-4 rounded-full bg-white focus:outline-none" placeholder="Updated in your inbox"/>
                         <button className="px-6 py-2 text-white rounded-full bg-red-400 hover:bg-red-300 focus:outline-none">Go</button>
                     </div>
                 </form>

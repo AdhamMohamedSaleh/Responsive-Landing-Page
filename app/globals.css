@@ -3,10 +3,6 @@
 @theme {
 }
 
-body{
-  font-family: Be Vietnam Pro;
-}
-
 .btn {
   @apply bg-orange-600 cursor-pointer hover:bg-orange-600/60 text-white font-bold p-3 px-6 pt-2 rounded-full;
 }

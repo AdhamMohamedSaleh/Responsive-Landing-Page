@@ -59,11 +59,11 @@ function Navbar() {
             id="menu"
             className="absolute max-w-xl mx-auto left-6 right-6 mt-10 flex flex-col items-center space-y-6 font-bold bg-white py-8 px-6 shadow-md"
           >
-            <Link href="/pricing">Pricing</Link>
-            <Link href="/product">Product</Link>
-            <Link href="/about">About Us</Link>
-            <Link href="/careers">Careers</Link>
-            <Link href="/community">Community</Link>
+            <Link className="hover:text-gray-400" href="/pricing">Pricing</Link>
+            <Link className="hover:text-gray-400" href="/product">Product</Link>
+            <Link className="hover:text-gray-400" href="/about">About Us</Link>
+            <Link className="hover:text-gray-400" href="/careers">Careers</Link>
+            <Link className="hover:text-gray-400" href="/community">Community</Link>
           </div>
         </div>
       )}
