@@ -4,7 +4,7 @@ function Testimonials() {
   return (
     <section id="testimonials">
       <div className="max-w-6xl mx-auto px-5 mt-32 text-center">
-        <h2 className="text-4xl font-bold text-center">What's different about Manage?</h2>
+        <h2 className="text-4xl font-bold text-center">What they've said?</h2>
         <div className="flex flex-col lg:flex-row mt-24 space-y-12 lg:space-y-0 lg:space-x-6">
             <div className="flex flex-col items-center mx-auto w-1/2 space-y-6 p-6 rounded-lg bg-gray-100 lg:w-1/3">
             <Image src="/avatar-anisha.png" alt="Testm-01" className="-mt-14" width={64} height={96}/>
