@@ -51,7 +51,7 @@ function Footer() {
                         <button className="px-6 py-2 text-white rounded-full bg-red-400 hover:bg-red-300 focus:outline-none">Go</button>
                     </div>
                 </form>
-                <div className="hidden text-white lg:block">
+                <div className="hidden text-gray-500 lg:block">
                     Copyright &copy; 2022, All Rights Reserved
                 </div>
             </div>
